@@ -1,2 +1,2 @@
-# Par-Impar
+# MayorDeTres
 Created with CodeSandbox
